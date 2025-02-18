@@ -148,7 +148,7 @@ HEADER;
 FILE_DESCRIPTION(('ViewDefinition [Alignment-basedView]'),'2;1');
 FILE_NAME('Header example.ifc', '2022-09-16T10:35:07', ('Evandro Alfieri'), ('buildingSMART Int.'), 'IFC Motor 1.0', 'Company - Application - 26.0.0.0', 'none');
 FILE_SCHEMA(('IFC4X3_ADD2'));
-ENDSEC;`
+ENDSEC;
 ```
 
 
